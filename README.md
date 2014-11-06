@@ -1,4 +1,4 @@
-# iFestivos - Insside Framewok®
+# Festivos - Insside Framewok®
 
 Esta clase se genera un array con los calculos necesarios para calcular los festivos de
 colombia de acuerdo a la normativa nuestro pais. Los festivos se dividen en 4 tipos de festivos:
