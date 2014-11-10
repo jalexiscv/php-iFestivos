@@ -44,7 +44,7 @@ $root = (!isset($root)) ? "../../" : $root;
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-class Festivos {
+class iFestivos {
 
   private $hoy;
   private $festivos;
